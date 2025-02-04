@@ -1,0 +1,12 @@
+git --version
+
+git config --global user.name "your-username"
+git config --global user.email "XXXX@datavalley.ai"
+ 
+git config user.name
+git config user.email
+
+
+git clone https://github.com/Leelagopichand0218/Data_analytics.git
+
+to clear commands in terminal : clear
